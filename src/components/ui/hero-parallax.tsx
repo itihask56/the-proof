@@ -105,12 +105,14 @@ export const Header = () => {
   return (
     <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0">
       <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
-        I am Itihas Verma<br /> and i make coffee with code
+        I am Itihas Verma
+        <br /> and i make coffee with code
       </h1>
-      
+
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
         I am Itihas Verma a cse and tech enthusiast from chandigarh univeristy.
-        Currnently i am working on a project called reHostify which made campus commerce easy
+        Currnently i am working on a project called reHostify which made campus
+        commerce easy
       </p>
     </div>
   );
@@ -144,8 +146,8 @@ export const ProductCard = ({
       >
         <Image
           src={product.thumbnail}
-          height="600"
-          width="600"
+          height="1000"
+          width="1000"
           className="object-cover object-left-top absolute h-full w-full inset-0"
           alt={product.title}
         />

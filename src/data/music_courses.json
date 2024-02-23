@@ -1,0 +1,75 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "isFeatured": true,
+        "image": "/aceternityui.png" 
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "isFeatured": false,
+        "image": "/aceternityui.png" 
+      },
+      {
+        "id": 3,
+        "title": "Advanced Vocal Techniques",
+        "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
+        "isFeatured": true,
+        "image": "/aceternityui.png" 
+      },
+      {
+        "id": 4,
+        "title": "Drumming Mastery",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "isFeatured": false,
+        "image": "/aceternityui.png" 
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation",
+        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "isFeatured": false,
+        "image":"/aceternityui.png" 
+      },
+      {
+        "id": 6,
+        "title": "Music Production Fundamentals",
+        "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
+        "isFeatured": true,
+        "image":"/aceternityui.png" 
+      },
+      {
+        "id": 7,
+        "title": "Songwriting Essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "isFeatured": false,
+        "image": "/aceternityui.png" 
+      },
+      {
+        "id": 8,
+        "title": "Electronic Music Production",
+        "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+        "isFeatured": true,
+        "image":"/aceternityui.png" 
+      },
+      {
+        "id": 9,
+        "title": "Classical Music History",
+        "description": "Explore the rich history of classical music from its origins to the present day.",
+        "isFeatured": false,
+        "image": "/aceternityui.png" 
+      },
+      {
+        "id": 10,
+        "title": "Blues Guitar Techniques",
+        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+        "isFeatured": true,
+        "image":"/aceternityui.png" 
+      }
+    ]
+  }
+  
